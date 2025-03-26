@@ -11,4 +11,4 @@ def get_element(list_, index):
 
 
 def convert_to_integer(value):
-    return int(value)
+    return int(float(value))
